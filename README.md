@@ -62,20 +62,6 @@ The main components of the application are:
 - **`app.py`**: The main application file that contains the Streamlit code.
 - **`requirements.txt`**: The file that lists the Python dependencies for the project.
 
-## Example
-
-1. Upload an image:
-    ![Upload Image](screenshots/upload_image.png)
-
-2. Enter a prompt:
-    ![Enter Prompt](screenshots/enter_prompt.png)
-
-3. View the generated information:
-    ![Generated Information](screenshots/generated_information.png)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
